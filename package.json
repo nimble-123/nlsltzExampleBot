@@ -1,0 +1,27 @@
+{
+  "name": "nlsltzexamplebot",
+  "version": "0.0.1",
+  "description": "This is a bot for learning purposes",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nlsltz/nlsltzExampleBot.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "learning"
+  ],
+  "author": "Nils Lutz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nlsltz/nlsltzExampleBot/issues"
+  },
+  "homepage": "https://github.com/nlsltz/nlsltzExampleBot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
