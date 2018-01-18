@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # General
 .DS_Store
 .AppleDouble
@@ -25,6 +26,8 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+=======
+>>>>>>> 77b8e56ec2ed4ca6406a80520bce5609daf17a05
 # Logs
 logs
 *.log
@@ -83,3 +86,4 @@ typings/
 
 # dotenv environment variables file
 .env
+
