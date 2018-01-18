@@ -4,7 +4,8 @@
   "description": "This is a bot for learning purposes",
   "main": "bot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
   },
   "repository": {
     "type": "git",
@@ -15,13 +16,14 @@
     "bot",
     "learning"
   ],
-  "author": "Nils Lutz",
+  "author": "Nils Lutz <info@nilslutz.de>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/nlsltz/nlsltzExampleBot/issues"
   },
   "homepage": "https://github.com/nlsltz/nlsltzExampleBot#readme",
   "dependencies": {
+    "dotenv": "^4.0.0",
     "node-telegram-bot-api": "^0.30.0"
   }
 }
